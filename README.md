@@ -1,4 +1,4 @@
-# iot_health_monitoring
+# IoT_health_monitoring
 # IoT-Based Patient Health Monitoring System
 
 ## Overview
