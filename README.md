@@ -127,8 +127,10 @@ The `Images` folder contains:
 
 ## Author
 
-**Bagyalakshmi.A**
+**Bagyalakshmi.A**,
+
 **R Ssadhana**
+
 ## Mentor
 **Dr. A.S. Augustine Fletcher**
 
